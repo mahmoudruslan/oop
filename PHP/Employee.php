@@ -1,5 +1,5 @@
 <?php
-    namespace App\OOP\PHP;
+    namespace App;
 
     class Employee {
         private string $name;
