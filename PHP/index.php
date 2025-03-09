@@ -6,5 +6,6 @@
     $microwave = new Microwave(15, 'DF2', 60);
 
     echo $microwave->deFreeze();
+        
 
 

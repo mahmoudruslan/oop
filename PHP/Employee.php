@@ -22,6 +22,7 @@
         {
             return $this->salary;
         }
+        
         public function getAge()
         {
             return $this->age;
