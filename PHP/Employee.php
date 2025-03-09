@@ -17,10 +17,12 @@
         {
             return $this->name;
         }
+        //TEST
         public function getSalary()
         {
             return $this->salary;
         }
+        
         public function getAge()
         {
             return $this->age;
