@@ -17,6 +17,7 @@
         {
             return $this->name;
         }
+        //TEST
         public function getSalary()
         {
             return $this->salary;
