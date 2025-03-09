@@ -4,8 +4,8 @@
     use App\Microwave\Microwave;
 
     $microwave = new Microwave(15, 'DF2', 60);
-
-    echo $microwave->deFreeze();
+    $test = $microwave->deFreeze();
+    echo $test;
         
 
 
